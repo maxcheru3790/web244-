@@ -1,0 +1,80 @@
+Age,Gender,Position,yte,q2,q1,q4,q5,location,q3
+20-30,Female,Deputy Headteacher,More than 20,No,Dissatisfied,Satisfied,Satisfied,weteithie,Poor
+30-40,Female,Teacher,Less than 20,Not Sure,Very Satisfied,Very Satisfied,Dissatisfied,kalimoni,Poor
+40-50,Female,Deputy Headteacher,More than 20,Yes,Satisfied,Dissatisfied,Neutral,juja,Good
+40-50,Male,Teacher,Less than 20,Yes,Neutral,Dissatisfied,Dissatisfied,juja,Poor
+40-50,Male,Head Teacher,Less than 20,Yes,Satisfied,Satisfied,Satisfied,murera,Good
+50-60,Male,Head Teacher,More than 20,Yes,Satisfied,Dissatisfied,Satisfied,weteithie,Average
+30-40,Male,Deputy Headteacher,More than 20,No,Dissatisfied,Very Dissatisfied,Satisfied,murera,Average
+40-50,Male,Teacher,Less than 20,Yes,Neutral,Satisfied,Dissatisfied,weteithie,Poor
+40-50,Female,Deputy Headteacher,More than 20,Yes,Dissatisfied,Neutral,Dissatisfied,weteithie,Good
+20-30,Female,Deputy Headteacher,Less than 20,Yes,Very Dissatisfied,Dissatisfied,Satisfied,murera,Very Poor
+40-50,Female,Teacher,Less than 20,Yes,Dissatisfied,Satisfied,Neutral,juja,Average
+40-50,Male,Deputy Headteacher,Less than 20,Yes,Dissatisfied,Dissatisfied,Dissatisfied,theta,Poor
+40-50,Female,Teacher,More than 20,Yes,Neutral,Very Satisfied,Neutral,murera,Excellent
+40-50,Male,Deputy Headteacher,More than 20,Yes,Satisfied,Satisfied,Satisfied,weteithie,Excellent
+20-30,Male,Deputy Headteacher,More than 20,Yes,Very Satisfied,Dissatisfied,Very Dissatisfied,kalimoni,Average
+20-30,Male,Teacher,More than 20,Yes,Dissatisfied,Neutral,Satisfied,theta,Good
+30-40,Male,Teacher,Less than 20,Not Sure,Neutral,Dissatisfied,Satisfied,juja,Good
+20-30,Male,Deputy Headteacher,Less than 20,No,Satisfied,Very Satisfied,Neutral,juja,Poor
+40-50,Female,Teacher,Less than 20,Yes,Very Satisfied,Very Satisfied,Very Satisfied,murera,Average
+40-50,Male,Head Teacher,More than 20,Yes,Neutral,Very Satisfied,Satisfied,theta,Poor
+50-60,Male,Deputy Headteacher,More than 20,No,Satisfied,Neutral,Neutral,kalimoni,Very Poor
+20-30,Female,Teacher,More than 20,Yes,Neutral,Very Satisfied,Very Satisfied,juja,Very Poor
+30-40,Male,Head Teacher,More than 20,Yes,Satisfied,Satisfied,Satisfied,theta,Poor
+40-50,Male,Head Teacher,More than 20,Yes,Very Satisfied,Satisfied,Satisfied,murera,Poor
+30-40,Female,Deputy Headteacher,More than 20,Yes,Satisfied,Satisfied,Neutral,kalimoni,Good
+50-60,Female,Head Teacher,More than 20,Yes,Very Satisfied,Satisfied,Satisfied,weteithie,Average
+40-50,Male,Head Teacher,Less than 20,No,Very Dissatisfied,Satisfied,Very Dissatisfied,murera,Average
+30-40,Male,Head Teacher,More than 20,No,Neutral,Neutral,Neutral,murera,Excellent
+20-30,Female,Teacher,More than 20,Not Sure,Neutral,Satisfied,Satisfied,kalimoni,Very Poor
+50-60,Male,Head Teacher,Less than 20,Yes,Dissatisfied,Neutral,Neutral,kalimoni,Very Poor
+40-50,Female,Head Teacher,More than 20,No,Neutral,Neutral,Satisfied,kalimoni,Average
+30-40,Male,Head Teacher,More than 20,Yes,Satisfied,Satisfied,Neutral,kalimoni,Poor
+40-50,Female,Deputy Headteacher,More than 20,No,Satisfied,Dissatisfied,Neutral,juja,Excellent
+40-50,Female,Deputy Headteacher,More than 20,Yes,Neutral,Satisfied,Neutral,theta,Poor
+50-60,Female,Head Teacher,More than 20,Not Sure,Satisfied,Very Satisfied,Neutral,theta,Very Poor
+50-60,Male,Head Teacher,More than 20,Yes,Very Satisfied,Very Satisfied,Dissatisfied,kalimoni,Very Poor
+40-50,Male,Head Teacher,More than 20,No,Very Satisfied,Satisfied,Very Satisfied,theta,Average
+40-50,Female,Teacher,More than 20,Not Sure,Neutral,Neutral,Neutral,kalimoni,Poor
+50-60,Male,Head Teacher,Less than 20,Yes,Satisfied,Satisfied,Very Dissatisfied,juja,Good
+40-50,Male,Head Teacher,Less than 20,Yes,Very Satisfied,Satisfied,Satisfied,theta,Good
+30-40,Male,Head Teacher,More than 20,Not Sure,Satisfied,Very Satisfied,Satisfied,juja,Average
+30-40,Female,Head Teacher,Less than 20,Not Sure,Satisfied,Very Dissatisfied,Satisfied,weteithie,Good
+40-50,Gender,Head Teacher,More than 20,Yes,Satisfied,Very Satisfied,Neutral,theta,Good
+50-60,Female,Teacher,More than 20,No,Satisfied,Neutral,Satisfied,kalimoni,Good
+20-30,Male,Teacher,Less than 20,Not Sure,Satisfied,Very Satisfied,Satisfied,weteithie,Good
+50-60,Male,Deputy Headteacher,Less than 20,Yes,Neutral,Dissatisfied,Satisfied,juja,Good
+30-40,Male,Deputy Headteacher,More than 20,No,Satisfied,Satisfied,Dissatisfied,theta,Good
+30-40,Female,Head Teacher,More than 20,Not Sure,Dissatisfied,Very Dissatisfied,Dissatisfied,murera,Average
+40-50,Male,Deputy Headteacher,Less than 20,No,Neutral,Very Satisfied,Very Dissatisfied,theta,Good
+40-50,Male,Deputy Headteacher,Less than 20,Yes,Dissatisfied,Satisfied,Neutral,murera,Very Poor
+40-50,Female,Deputy Headteacher,Less than 20,No,Very Satisfied,Neutral,Neutral,weteithie,Very Poor
+40-50,Male,Teacher,More than 20,No,Satisfied,Neutral,Very Dissatisfied,juja,Average
+50-60,Female,Teacher,More than 20,Yes,Neutral,Very Satisfied,Very Satisfied,weteithie,Very Poor
+40-50,Male,Head Teacher,Less than 20,Yes,Very Dissatisfied,Satisfied,Dissatisfied,theta,Very Poor
+30-40,Male,Head Teacher,Less than 20,No,Very Satisfied,Satisfied,Dissatisfied,theta,Excellent
+20-30,Female,Deputy Headteacher,More than 20,No,Neutral,Dissatisfied,Neutral,weteithie,Excellent
+30-40,Male,Deputy Headteacher,More than 20,No,Dissatisfied,Satisfied,Neutral,kalimoni,Good
+20-30,Female,Teacher,Less than 20,Not Sure,Very Dissatisfied,Satisfied,Very Satisfied,theta,Average
+30-40,Male,Head Teacher,Less than 20,No,Satisfied,Very Satisfied,Satisfied,kalimoni,Very Poor
+30-40,Female,Head Teacher,Less than 20,Yes,Satisfied,Satisfied,Very Dissatisfied,weteithie,Average
+20-30,Male,Teacher,More than 20,No,Dissatisfied,Satisfied,Neutral,theta,Good
+30-40,Male,Deputy Headteacher,Less than 20,Not Sure,Very Satisfied,Dissatisfied,Satisfied,juja,Average
+50-60,Female,Teacher,More than 20,Yes,Neutral,Neutral,Very Dissatisfied,murera,Very Poor
+30-40,Male,Deputy Headteacher,More than 20,Not Sure,Dissatisfied,Very Satisfied,Very Satisfied,weteithie,Very Poor
+40-50,Male,Deputy Headteacher,Less than 20,No,Dissatisfied,Satisfied,Neutral,murera,Good
+30-40,Female,Deputy Headteacher,Less than 20,No,Dissatisfied,Very Dissatisfied,Satisfied,theta,Excellent
+30-40,Female,Teacher,More than 20,No,Satisfied,Neutral,Dissatisfied,kalimoni,Average
+50-60,Male,Head Teacher,More than 20,Yes,Dissatisfied,Very Satisfied,Satisfied,juja,Good
+30-40,Female,Head Teacher,Less than 20,Yes,Very Satisfied,Dissatisfied,Dissatisfied,juja,Very Poor
+40-50,Male,Teacher,More than 20,No,Dissatisfied,Neutral,Neutral,murera,Poor
+40-50,Female,Deputy Headteacher,More than 20,Yes,Neutral,Satisfied,Dissatisfied,kalimoni,Excellent
+50-60,Male,Head Teacher,Less than 20,No,Very Satisfied,Dissatisfied,Neutral,murera,Good
+30-40,Female,Head Teacher,Less than 20,Yes,Dissatisfied,Satisfied,Dissatisfied,murera,Excellent
+30-40,Female,Head Teacher,More than 20,No,Satisfied,Dissatisfied,Satisfied,juja,Very Poor
+20-30,Female,Deputy Headteacher,More than 20,No,Very Dissatisfied,Dissatisfied,Satisfied,weteithie,Good
+40-50,Male,Teacher,Less than 20,Yes,Very Dissatisfied,Very Satisfied,Dissatisfied,weteithie,Good
+30-40,Male,Head Teacher,More than 20,Yes,Very Satisfied,Dissatisfied,Very Satisfied,kalimoni,Poor
+20-30,Female,Deputy Headteacher,More than 20,Not Sure,Neutral,Dissatisfied,Very Satisfied,weteithie,Good
+30-40,Female,Deputy Headteacher,More than 20,No,Very Satisfied,Very Satisfied,Dissatisfied,kalimoni,Good

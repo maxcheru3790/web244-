@@ -1,0 +1,80 @@
+age1,gender1,position,yte,q1,q2,q3,q5,q6,q7,location,q4
+20-30,Female,Deputy Headteacher,More than 20,Poor,No,Very High,Neutral,"Yes, highly beneficial",Neutral,weteithie,3
+30-40,Female,Teacher,Less than 20,Good,Not Sure,Low,Very Satisfied,"Yes, highly beneficial",Very Satisfied,kalimoni,5
+40-50,Female,Deputy Headteacher,More than 20,Average,Yes,Moderate,Very Dissatisfied,"Yes, highly beneficial",Dissatisfied,juja,1
+40-50,Male,Teacher,Less than 20,Good,Yes,High,Very Satisfied,"Yes, highly beneficial",Very Dissatisfied,juja,5
+40-50,Male,Head Teacher,Less than 20,Average,Yes,Very Low,Neutral,"Yes, highly beneficial",Neutral,murera,3
+50-60,Male,Head Teacher,More than 20,Very Poor,Yes,Moderate,Very Dissatisfied,"No, not beneficial",Neutral,weteithie,1
+30-40,Male,Deputy Headteacher,More than 20,Very Poor,No,Very Low,Neutral,"Yes, highly beneficial",Dissatisfied,murera,3
+40-50,Male,Teacher,Less than 20,Good,Yes,Low,Neutral,"Yes, highly beneficial",Very Dissatisfied,weteithie,3
+40-50,Female,Deputy Headteacher,More than 20,Average,Yes,Moderate,Neutral,"Yes, moderately beneficial",Very Dissatisfied,weteithie,3
+20-30,Female,Deputy Headteacher,Less than 20,Excellent,Yes,Moderate,Very Dissatisfied,"Yes, highly beneficial",Neutral,murera,1
+40-50,Female,Teacher,Less than 20,Very Poor,Yes,Very High,Neutral,"Yes, highly beneficial",Neutral,juja,3
+40-50,Male,Deputy Headteacher,Less than 20,Good,Yes,Very Low,Very Dissatisfied,"Yes, moderately beneficial",Very Dissatisfied,theta,1
+40-50,Female,Teacher,More than 20,Average,Yes,High,Very Satisfied,"Yes, moderately beneficial",Dissatisfied,murera,5
+40-50,Male,Deputy Headteacher,More than 20,Poor,Yes,Very High,Very Satisfied,"Yes, highly beneficial",Neutral,weteithie,5
+20-30,Male,Deputy Headteacher,More than 20,Very Poor,Yes,Very Low,Very Dissatisfied,"Yes, moderately beneficial",Neutral,kalimoni,1
+20-30,Male,Teacher,More than 20,Average,Yes,Moderate,Dissatisfied,"No, not beneficial",Neutral,theta,2
+30-40,Male,Teacher,Less than 20,Average,Not Sure,Low,Very Dissatisfied,"Yes, moderately beneficial",Neutral,juja,1
+20-30,Male,Deputy Headteacher,Less than 20,Good,No,Moderate,Very Satisfied,"No, not beneficial",Dissatisfied,juja,5
+40-50,Female,Teacher,Less than 20,Very Poor,Yes,Very Low,Very Satisfied,"Yes, moderately beneficial",Very Satisfied,murera,5
+40-50,Male,Head Teacher,More than 20,Good,Yes,Moderate,Very Satisfied,"Yes, highly beneficial",Neutral,theta,5
+50-60,Male,Deputy Headteacher,More than 20,Excellent,No,Low,Dissatisfied,"No, not beneficial",Dissatisfied,kalimoni,2
+20-30,Female,Teacher,More than 20,Excellent,Yes,Low,Very Satisfied,"Yes, moderately beneficial",Very Satisfied,juja,5
+30-40,Male,Head Teacher,More than 20,Good,Yes,Moderate,Neutral,"Yes, highly beneficial",Neutral,theta,3
+40-50,Male,Head Teacher,More than 20,Good,Yes,Very Low,Neutral,"No, not beneficial",Neutral,murera,3
+30-40,Female,Deputy Headteacher,More than 20,Average,Yes,Moderate,Neutral,"No, not beneficial",Dissatisfied,kalimoni,3
+50-60,Female,Head Teacher,More than 20,Very Poor,Yes,Very Low,Neutral,"Yes, moderately beneficial",Neutral,weteithie,3
+40-50,Male,Head Teacher,Less than 20,Excellent,No,High,Neutral,"Yes, highly beneficial",Satisfied,murera,3
+30-40,Male,Head Teacher,More than 20,Poor,No,Moderate,Dissatisfied,"Yes, highly beneficial",Dissatisfied,murera,2
+20-30,Female,Teacher,More than 20,Excellent,Not Sure,Low,Neutral,"Yes, moderately beneficial",Neutral,kalimoni,3
+50-60,Male,Head Teacher,Less than 20,Excellent,Yes,Low,Dissatisfied,"Yes, highly beneficial",Dissatisfied,kalimoni,2
+40-50,Female,Head Teacher,More than 20,Very Poor,No,Moderate,Dissatisfied,"No, not beneficial",Neutral,kalimoni,2
+30-40,Male,Head Teacher,More than 20,Excellent,Yes,Moderate,Neutral,"Yes, highly beneficial",Dissatisfied,kalimoni,3
+40-50,Female,Deputy Headteacher,More than 20,Poor,No,Moderate,Dissatisfied,"Yes, highly beneficial",Dissatisfied,juja,2
+40-50,Female,Deputy Headteacher,More than 20,Good,Yes,Moderate,Neutral,"Yes, moderately beneficial",Dissatisfied,theta,3
+50-60,Female,Head Teacher,More than 20,Excellent,Not Sure,Moderate,Very Satisfied,"Yes, highly beneficial",Dissatisfied,theta,5
+50-60,Male,Head Teacher,More than 20,Excellent,Yes,Very Low,Very Satisfied,"Yes, highly beneficial",Very Dissatisfied,kalimoni,5
+40-50,Male,Head Teacher,More than 20,Very Poor,No,Very Low,Neutral,"No, not beneficial",Very Satisfied,theta,3
+40-50,Female,Teacher,More than 20,Good,Not Sure,Moderate,Neutral,"Yes, highly beneficial",Dissatisfied,kalimoni,3
+50-60,Male,Head Teacher,Less than 20,Average,Yes,High,Neutral,"Yes, highly beneficial",Satisfied,juja,3
+40-50,Male,Head Teacher,Less than 20,Average,Yes,Very Low,Neutral,"Yes, highly beneficial",Neutral,theta,3
+30-40,Male,Head Teacher,More than 20,Very Poor,Not Sure,Moderate,Very Satisfied,"Yes, highly beneficial",Neutral,juja,5
+30-40,Female,Head Teacher,Less than 20,Average,Not Sure,Moderate,Neutral,"Yes, moderately beneficial",Neutral,weteithie,3
+40-50,Gender,Head Teacher,More than 20,Average,Yes,Very Low,Very Satisfied,"Yes, moderately beneficial",Dissatisfied,theta,5
+50-60,Female,Teacher,More than 20,Average,No,Very Low,Satisfied,"No, not beneficial",Neutral,kalimoni,4
+20-30,Male,Teacher,Less than 20,Average,Not Sure,Moderate,Very Satisfied,"Yes, highly beneficial",Neutral,weteithie,5
+50-60,Male,Deputy Headteacher,Less than 20,Average,Yes,Moderate,Very Dissatisfied,"No, not beneficial",Neutral,juja,1
+30-40,Male,Deputy Headteacher,More than 20,Average,No,Low,Very Dissatisfied,"Yes, highly beneficial",Very Dissatisfied,theta,1
+30-40,Female,Head Teacher,More than 20,Very Poor,Not Sure,Moderate,Satisfied,"Yes, highly beneficial",Very Dissatisfied,murera,4
+40-50,Male,Deputy Headteacher,Less than 20,Average,No,Moderate,Very Satisfied,"Yes, moderately beneficial",Satisfied,theta,5
+40-50,Male,Deputy Headteacher,Less than 20,Excellent,Yes,Low,Neutral,"No, not beneficial",Dissatisfied,murera,3
+40-50,Female,Deputy Headteacher,Less than 20,Excellent,No,Very Low,Dissatisfied,"Yes, moderately beneficial",Dissatisfied,weteithie,2
+40-50,Male,Teacher,More than 20,Very Poor,No,Moderate,Neutral,"Yes, highly beneficial",Satisfied,juja,3
+50-60,Female,Teacher,More than 20,Excellent,Yes,Low,Very Satisfied,"Yes, highly beneficial",Very Satisfied,weteithie,5
+40-50,Male,Head Teacher,Less than 20,Excellent,Yes,Moderate,Neutral,"Yes, highly beneficial",Very Dissatisfied,theta,3
+30-40,Male,Head Teacher,Less than 20,Average,No,Very Low,Neutral,"No, not beneficial",Very Dissatisfied,theta,3
+20-30,Female,Deputy Headteacher,More than 20,Poor,No,Very High,Very Dissatisfied,"Yes, highly beneficial",Dissatisfied,weteithie,1
+30-40,Male,Deputy Headteacher,More than 20,Average,No,Low,Neutral,"No, not beneficial",Dissatisfied,kalimoni,3
+20-30,Female,Teacher,Less than 20,Very Poor,Not Sure,Moderate,Neutral,"Yes, highly beneficial",Very Satisfied,theta,3
+30-40,Male,Head Teacher,Less than 20,Excellent,No,Moderate,Very Satisfied,"Yes, highly beneficial",Neutral,kalimoni,5
+30-40,Female,Head Teacher,Less than 20,Very Poor,Yes,Very High,Very Dissatisfied,"Yes, highly beneficial",Satisfied,weteithie,1
+20-30,Male,Teacher,More than 20,Average,No,Very Low,Neutral,"Yes, highly beneficial",Dissatisfied,theta,3
+30-40,Male,Deputy Headteacher,Less than 20,Very Poor,Not Sure,High,Very Dissatisfied,"No, not beneficial",Neutral,juja,1
+50-60,Female,Teacher,More than 20,Excellent,Yes,Very Low,Dissatisfied,Neutral,Satisfied,murera,2
+30-40,Male,Deputy Headteacher,More than 20,Excellent,Not Sure,Very Low,Satisfied,"Yes, highly beneficial",Very Satisfied,weteithie,4
+40-50,Male,Deputy Headteacher,Less than 20,Average,No,Low,Neutral,"Yes, moderately beneficial",Neutral,murera,3
+30-40,Female,Deputy Headteacher,Less than 20,Poor,No,Very Low,Satisfied,"No, not beneficial",Neutral,theta,4
+30-40,Female,Teacher,More than 20,Very Poor,No,High,Dissatisfied,"Yes, moderately beneficial",Very Dissatisfied,kalimoni,2
+50-60,Male,Head Teacher,More than 20,Average,Yes,Low,Very Satisfied,"Yes, highly beneficial",Neutral,juja,5
+30-40,Female,Head Teacher,Less than 20,Excellent,Yes,Low,Very Dissatisfied,"Yes, highly beneficial",Very Dissatisfied,juja,1
+40-50,Male,Teacher,More than 20,Average,No,Moderate,Neutral,"Yes, highly beneficial",Very Dissatisfied,murera,3
+40-50,Female,Deputy Headteacher,More than 20,Poor,Yes,Low,Neutral,"No, not beneficial",Very Dissatisfied,kalimoni,3
+50-60,Male,Head Teacher,Less than 20,Very Poor,No,Very Low,Very Dissatisfied,Neutral,Dissatisfied,murera,1
+30-40,Female,Head Teacher,Less than 20,Poor,Yes,Very High,Neutral,"Yes, highly beneficial",Very Dissatisfied,murera,3
+30-40,Female,Head Teacher,More than 20,Excellent,No,Low,Very Dissatisfied,Neutral,Dissatisfied,juja,1
+20-30,Female,Deputy Headteacher,More than 20,Average,No,Moderate,Very Dissatisfied,"Yes, highly beneficial",Neutral,weteithie,1
+40-50,Male,Teacher,Less than 20,Average,Yes,Moderate,Very Satisfied,Neutral,Very Dissatisfied,weteithie,5
+30-40,Male,Head Teacher,More than 20,Good,Yes,Low,Very Dissatisfied,"Yes, highly beneficial",Very Satisfied,kalimoni,1
+20-30,Female,Deputy Headteacher,More than 20,Average,Not Sure,Low,Very Dissatisfied,Neutral,Very Satisfied,weteithie,1
+30-40,Female,Deputy Headteacher,More than 20,Average,No,Moderate,Very Satisfied,"No, not beneficial",Very Dissatisfied,kalimoni,5
