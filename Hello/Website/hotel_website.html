@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hotel Booking</title>
+    <link rel="stylesheet" href="styles.css" />
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+      }
+      header {
+        background-color: #333;
+        color: white;
+        padding: 1em 0;
+        text-align: center;
+      }
+      .container {
+        max-width: 800px;
+        margin: 2em auto;
+        padding: 2em;
+        background-color: white;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+      h2 {
+        margin-bottom: 1em;
+      }
+      .room {
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        padding: 1em;
+        margin-bottom: 1em;
+      }
+      label {
+        display: block;
+        margin-bottom: 0.5em;
+      }
+      input,
+      select {
+        width: 100%;
+        padding: 0.5em;
+        margin-bottom: 1em;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+      }
+      button {
+        background-color: #333;
+        color: white;
+        padding: 0.7em;
+        border: none;
+        border-radius: 4px;
+        cursor: pointer;
+        width: 100%;
+      }
+      button:hover {
+        background-color: #555;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Welcome to Our Hotel</h1>
+    </header>
+    <div class="container">
+      <h2>Available Rooms</h2>
+      <div class="room">
+        <h3>Single Room</h3>
+        <p>Comfortable single room with a queen-sized bed.</p>
+        <p>Price: $100 per night</p>
+      </div>
+      <div class="room">
+        <h3>Double Room</h3>
+        <p>Spacious double room perfect for couples or friends.</p>
+        <p>Price: $150 per night</p>
+      </div>
+      <div class="room">
+        <h3>Suite</h3>
+        <p>Luxury suite with stunning views and a living area.</p>
+        <p>Price: $250 per night</p>
+      </div>
+
+      <h2>Book Your Room</h2>
+      <form id="bookingForm">
+        <label for="roomType">Room Type:</label>
+        <select id="roomType" required>
+          <option value="">Select Room Type</option>
+          <option value="single">Single Room</option>
+          <option value="double">Double Room</option>
+          <option value="suite">Suite</option>
+        </select>
+
+        <label for="checkIn">Check-In Date:</label>
+        <input type="date" id="checkIn" required />
+
+        <label for="checkOut">Check-Out Date:</label>
+        <input type="date" id="checkOut" required />
+
+        <button type="submit">Book Now</button>
+      </form>
+    </div>
+
+    <script>
+      document
+        .getElementById("bookingForm")
+        .addEventListener("submit", function (event) {
+          event.preventDefault();
+          alert("Room booked successfully!");
+          // Here you would typically handle form submission, e.g., sending data to a server
+        });
+    </script>
+  </body>
+</html>
